@@ -4,15 +4,17 @@
 
 <p align="center">Eu❤️me desafiar a Resolver problemas usando tecnologia. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-<h2 align="center" >Tecnologias
+<h2>Tecnologias/Frameworks</h2>
 
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a></h2>
+  
+<h2>Contato</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliezeralcantara&show_icons=true&bg_color=00000000)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-alcantara-147174285)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Finstagram.com%2Fe_l_i_e_z_e_r_s%3Figshid%3DYTQwZjQ0NmI0OA%253D%253D%26fbclid%3DPAAabEWAK5b1Lc4eLXlCWvKn9xn3_hqp_dmFtjf9HNgFX9jwvSd3_NzBZErsM_aem_AQ69H7CEQUDc4kH7fuawdunWvzMVQEFR2EFj_bJI9YMI5xUmfWm2tPK8mUO8j7OB6Hc&e=AT1w3MGpwA3j5D3R87R1XKrj-QSawEmZMJv_rpNxE4Y4xL32eYTgBEP1etpgKPeRFoeSv0sRRgYzI9cJ5_A-UwBDy5eK-AIhPWNr9r3TCoDVF4WymCal3w)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](www.facebook.com/profile.php?id=100078729072167&mibextid=ZbWKwL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BIMTJH5HIQ7QP1)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliezeralcantara&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezeralcantara&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
