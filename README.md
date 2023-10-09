@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Eu❤️me desafiar a Resolver problemas usando tecnologia. <br><br> Desenvolvedor Web </p>&nbsp;
+<p align="center">Desnvolvedor de sites. <br><br> Desenvolvedor Web </p>&nbsp;
 
 <h2>Tecnologias/Frameworks</h2>
 
